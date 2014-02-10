@@ -4,3 +4,10 @@ dave:
   email: "dmehrman@gmail.com"
   profile_name: "dmehrman"
   encrypted_password: "12345678"
+  
+kristi:
+  first_name: "Kristi"
+  last_name: "Shields"
+  email: "shields.kristi@gmail.com"
+  profile_name: "kshields"
+  encrypted_password: "12345678"
